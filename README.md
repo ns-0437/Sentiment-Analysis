@@ -26,9 +26,7 @@ This project provides a FastAPI-based sentiment analysis API that leverages a pr
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
-   ```
+   git clone https://github.com/ns-0437/Sentiment-Analysis/tree/main
 
 2. Install dependencies:
    ```bash
